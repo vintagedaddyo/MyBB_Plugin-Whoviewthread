@@ -23,8 +23,13 @@ italiano
 // Installation:
 
 1- Unzip folder
-2- Upload inc folder 
+
+2- Upload inc folder
+
 3- Activate plugin via ACP
+
 4- Go to Settings and set Enable=Yes
+
 5- Edit template who_visit_thread
+
 6- Go to showthread template to edit box position 
